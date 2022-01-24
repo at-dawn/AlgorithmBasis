@@ -1,7 +1,9 @@
 #pragma once
+#include "AlgorithmDefine.h"
 #include <iostream>
+#include <cstdint>
 
-class __declspec(dllexport)  AlgorithmBasis
+class DLL_EXPORT  AlgorithmBasis
 {
 public:
 	void DLLExport() { printf("Sucess"); };

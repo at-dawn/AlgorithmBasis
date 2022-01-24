@@ -140,9 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AlgorithmBasis.cpp" />
+    <ClCompile Include="CArray.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AlgorithmBasis.h" />
+    <ClInclude Include="AlgorithmDefine.h" />
+    <ClInclude Include="CArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

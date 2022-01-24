@@ -18,9 +18,18 @@
     <ClCompile Include="AlgorithmBasis.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CArray.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AlgorithmBasis.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="AlgorithmDefine.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CArray.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
